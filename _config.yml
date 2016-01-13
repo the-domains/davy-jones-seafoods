@@ -1,7 +1,7 @@
 name: Davy Jones Seafoods
 favicon: null
-layout_spectrum: 0.7462571656797081
-typography_spectrum: 0.1867324924096465
+layout_spectrum: 0.633967240806669
+typography_spectrum: 0.4589984880294651
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.1755632881540805
-  lightness: 0.9204918094910681
-  saturation: 0.09785320307128131
-  rhythmicContrast: 0.07519798050634563
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19824882736429572
+  lightness: 0.6074766160454601
+  saturation: 0.3116740635596216
+  rhythmicContrast: 0.14656381984241307
 purpose: []
