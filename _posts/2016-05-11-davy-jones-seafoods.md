@@ -5,11 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T02:52:33.615Z'
-dateModified: '2016-05-11T02:50:08.087Z'
+datePublished: '2016-05-11T02:55:08.525Z'
+dateModified: '2016-05-11T02:55:00.860Z'
 title: Davy Jones Seafoods
 author:
-  - {}
+  - name: Davy J
+    url: ''
 sourcePath: _posts/2016-05-11-davy-jones-seafoods.md
 authors: []
 publisher:
@@ -22,6 +23,6 @@ url: davy-jones-seafoods/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/226bcb83-0b11-4396-bdc6-ccfcdccd1fb2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1a67c12cb903ce8dd663adf714a6e0672e5e20.jpg)
 
 Davy Jones Seafoods
