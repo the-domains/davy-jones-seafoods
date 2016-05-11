@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-11T03:04:15.726Z'
-dateModified: '2016-05-11T03:03:10.893Z'
+description: 'Contact Us: +61(0)407416675'
+datePublished: '2016-05-11T03:05:05.863Z'
+dateModified: '2016-05-11T03:05:02.610Z'
 title: Davy Jones Seafoods
 author:
   - name: Davy J
@@ -25,5 +25,3 @@ _type: Article
 ---
 Contact Us: +61(0)407416675
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac1a67c12cb903ce8dd663adf714a6e0672e5e20.jpg)
-
-Davy Jones Seafoods
