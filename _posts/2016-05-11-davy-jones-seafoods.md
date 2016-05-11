@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T02:55:08.525Z'
-dateModified: '2016-05-11T02:55:00.860Z'
+datePublished: '2016-05-11T02:57:05.007Z'
+dateModified: '2016-05-11T02:55:56.414Z'
 title: Davy Jones Seafoods
 author:
   - name: Davy J
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: davy-jones-seafoods/index.html
 _type: Article
 
