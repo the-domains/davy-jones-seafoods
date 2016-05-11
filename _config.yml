@@ -1,16 +1,16 @@
 title: DavyJonesSeafoods.com
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.5050787720829248
 favicon: null
 name: Davy Jones Seafoods
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -33,9 +33,9 @@ color:
   saturation: 0.3106383
   rhythmicContrast: 0.6203086
   brandColors:
-    - '#6DA7C5'
-    - '#42748A'
-    - '#503631'
-    - '#BF987B'
-    - '#B7BED1'
+    - '#5F758B'
+    - '#9CACBD'
+    - '#FFFFFF'
+    - '#644146'
+    - '#C84C3A'
 typography_spectrum: 0.4170213
