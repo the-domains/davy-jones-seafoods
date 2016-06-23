@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DavyJonesSeafoods.com]]></title>
+        <description><![CDATA[DavyJonesSeafoods.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 00:38:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hot Smoked Salmon ]]></title>
+            <description><![CDATA[<article><h1>Hot Smoked Salmon </h1><p>Davy Jones Artisen Smoked Salmon</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae4a989-509c-45e6-bc23-e97cf82b6459.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ae4a989-509c-45e6-bc23-e97cf82b6459.jpg</link>
+            <guid isPermaLink="false">ea47dfa9-d829-4846-8bed-318035aa483e</guid>
+            <pubDate>Thu, 23 Jun 2016 00:38:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
